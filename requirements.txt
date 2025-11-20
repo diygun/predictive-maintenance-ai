@@ -1,0 +1,57 @@
+### Core / data
+numpy
+pandas
+# scipy
+# scikit-learn
+# joblib
+# tqdm
+
+### Signal / audio / spectrogrammes
+# librosa
+
+### Images / viz
+matplotlib
+seaborn
+plotly
+pillow
+# opencv-python
+# scikit-image
+
+### Jupyter / notebooks / reproducibility
+jupyterlab
+notebook
+ipykernel
+nbconvert
+jupytext
+
+### Deep Learning
+# torch
+# torchvision
+# torchaudio
+# tensorflow
+# keras
+
+### IO / formats / storage
+# h5py
+# pyarrow
+# fastparquet
+
+### Experiment tracking / MLOps / config
+# tensorboard
+# mlflow
+# dvc
+# hydra-core
+# omegaconf
+# python-dotenv
+# pyyaml
+dotenv
+
+### Utilities / web / DB
+# requests
+# sqlalchemy
+
+### Testing / linting / quality (optionnel)
+# pytest
+# black
+# flake8
+# mypy

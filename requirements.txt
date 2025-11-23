@@ -16,6 +16,7 @@ plotly
 pillow
 # opencv-python
 # scikit-image
+scipy
 
 ### Jupyter / notebooks / reproducibility
 jupyterlab

@@ -29,7 +29,8 @@ jupytext
 # torch
 # torchvision
 # torchaudio
-# tensorflow
+tensorflow
+scikit-learn
 # keras
 
 ### IO / formats / storage
